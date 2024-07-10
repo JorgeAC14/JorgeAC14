@@ -14,6 +14,7 @@ Automated Testing
 Postman
 Jira
 Web and Mobile Application Testing
+
 🌱 Currently:
 
 Continuously expanding my knowledge in quality assurance
