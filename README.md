@@ -17,5 +17,5 @@ Web and Mobile Application Testing
 
 🌱 Currently:
 
-Continuously expanding my knowledge in quality assurance
+Continuously expanding my knowledge in quality assurance.
 Looking to collaborate on interesting and challenging projects
