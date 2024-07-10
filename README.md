@@ -22,7 +22,7 @@ My background in accounting has endowed me with meticulous attention to detail a
 
 ---
 
-📧 jorgealbikcer@gmail.com
+📧 jorgealbicker@gmail.com
 📱 +52 222 293 6413
 
 Feel free to reach out or connect with me!
