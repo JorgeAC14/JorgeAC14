@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Jorge!
+I recently completed a QA Engineer bootcamp at TripleTen, where I developed skills in:
 
-<!--
-**JorgeAC14/JorgeAC14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Manual and automated testing
+API testing with Postman
+Bug tracking with Jira
+Creating and executing test cases for web and mobile applications
+My background in accounting has endowed me with meticulous attention to detail and strong analytical skills, which I apply to ensure software quality. I am enthusiastic about contributing to software development projects and continuing to learn in this dynamic field.
 
-Here are some ideas to get you started:
+🚀 Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Manual Testing
+Automated Testing
+Postman
+Jira
+Web and Mobile Application Testing
+🌱 Currently:
+
+Continuously expanding my knowledge in quality assurance
+Looking to collaborate on interesting and challenging projects
